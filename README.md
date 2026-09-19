@@ -18,6 +18,18 @@
     <a href="https://github.com/AdguardTeam/AdGuardForMac/releases/"><img src="https://img.shields.io/github/tag/AdguardTeam/AdGuardforMac.svg?label=release" alt="Latest release" /></a>
     <a href="https://github.com/AdguardTeam/AdGuardForMac/releases/"><img src="https://img.shields.io/github/tag-pre/AdguardTeam/AdGuardforMac.svg?label=beta&color=GREEN" alt="Beta version>" /></a>
   </p>
+<br />
+  <p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.adguard.com/content/release_notes/ad_blocker/mac/v2.12/m_main_dark_en.png" height="391"/>
+  <img src="https://cdn.adguard.com/content/release_notes/ad_blocker/mac/v2.12/m_main_light_en.png" height="391">
+   </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.adguard.com/content/release_notes/ad_blocker/mac/v2.12/m_filters_dark_en.png" width="525"/>
+<img src="https://cdn.adguard.com/content/release_notes/ad_blocker/mac/v2.12/m_filters_light_en.png" width="525">
+   </picture>
+  </p>
+<br />
 
 * [Contribution](#contribution)
   * [How to report an issue](#issue)
@@ -31,16 +43,8 @@
 
 AdGuard is the only standalone ad blocker app for Mac that can block ads equally well in all browsers and apps, not only in Safari. It will also protect your data from tracking and shield your privacy.
 
-To get more information and to download AdGuard for Windows, [visit our website](https://adguard.com/adguard-mac/overview.html).
+To get more information and to download AdGuard for Mac, [visit our website](https://adguard.com/adguard-mac/overview.html).
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.adguard.com/content/release_notes/ad_blocker/mac/v2.12/m_main_dark_en.png" height="391"/>
-  <img src="https://cdn.adguard.com/content/release_notes/ad_blocker/mac/v2.12/m_main_light_en.png" height="391">
-   </picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.adguard.com/content/release_notes/ad_blocker/mac/v2.12/m_filters_dark_en.png" width="525"/>
-<img src="https://cdn.adguard.com/content/release_notes/ad_blocker/mac/v2.12/m_filters_light_en.png" width="525">
-   </picture>
 
 <a id="contribution"></a>
 ## Contribution
