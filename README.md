@@ -31,20 +31,22 @@
   </p>
 <br />
 
+AdGuard is the only standalone ad blocker app for Mac that can block ads equally well in all browsers and apps, not only in Safari. It will also protect your data from tracking and shield your privacy.
+
+To get more information and to download AdGuard for Mac, [visit our website](https://adguard.com/adguard-mac/overview.html).
+
+> ### Disclaimer
+>* AdGuard for Mac is not an open source project. We use GitHub as an open bug tracker for users to see what developers are working on. However, we at AdGuard create [a lot of open source software](https://github.com/search?o=desc&q=topic%3Aopen-source+org%3AAdguardTeam+fork%3Atrue&s=stars&type=Repositories).
+>* View our [Privacy Policy](https://adguard.com/privacy/mac.html) (Briefly: AdGuard sends only necessary, limited information, e.g. information required for a license check).
+<br />
+
 * [Contribution](#contribution)
   * [How to report an issue](#issue)
   * [Translating AdGuard](#contribution-translating)
   * [Other options](#contribution-other)
   * [How to become a Beta tester](#beta-tester)
 
-> ### Disclaimer
->* AdGuard for Mac is not an open source project. We use GitHub as an open bug tracker for users to see what developers are working on. However, we at AdGuard create [a lot of open source software](https://github.com/search?o=desc&q=topic%3Aopen-source+org%3AAdguardTeam+fork%3Atrue&s=stars&type=Repositories).
->* View our [Privacy Policy](https://adguard.com/privacy/mac.html) (Briefly: AdGuard sends only necessary, limited information, e.g. information required for a license check).
-
-AdGuard is the only standalone ad blocker app for Mac that can block ads equally well in all browsers and apps, not only in Safari. It will also protect your data from tracking and shield your privacy.
-
-To get more information and to download AdGuard for Mac, [visit our website](https://adguard.com/adguard-mac/overview.html).
-
+<br />
 
 <a id="contribution"></a>
 ## Contribution
