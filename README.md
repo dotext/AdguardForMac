@@ -17,7 +17,7 @@
     <br /><br />
     <a href="https://github.com/AdguardTeam/AdGuardForMac/releases/"><img src="https://img.shields.io/github/tag/AdguardTeam/AdGuardforMac.svg?label=release" alt="Latest release" /></a>
     <a href="https://github.com/AdguardTeam/AdGuardForMac/releases/"><img src="https://img.shields.io/github/tag-pre/AdguardTeam/AdGuardforMac.svg?label=beta&color=GREEN" alt="Beta version>" /></a>
-
+  </p>
 
 * [Contribution](#contribution)
   * [How to report an issue](#issue)
